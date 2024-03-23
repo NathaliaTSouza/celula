@@ -1,0 +1,17 @@
+.App{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'helvetica';
+}
+
+.listagem{
+  margin: 3% 10%;
+  text-align: left;
+  float: right;
+  width: 40%;
+}
+
+h2{
+  text-decoration: underline;
+  margin-left: 5%;
+}
